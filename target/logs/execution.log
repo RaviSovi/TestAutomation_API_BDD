@@ -1,0 +1,627 @@
+30-07-2024 13:30:54 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+30-07-2024 13:36:33 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 13:36:34 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 13:36:35 INFO  TestListener:27 - java.lang.AssertionError: Book not created
+30-07-2024 13:38:50 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 13:38:50 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 13:42:54 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 13:42:54 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 13:48:11 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 13:48:12 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:02:19 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:02:20 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:05:22 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:05:23 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:11:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:11:15 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:16:13 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:16:14 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:17:57 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:17:58 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:20:28 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:20:28 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:24:03 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:24:03 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:29:31 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:29:31 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:31:26 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:31:27 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:56:53 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 14:56:53 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 14:56:55 INFO  TestListener:27 - io.cucumber.core.exception.CucumberException: Could not invoke step [User validates the json reponse properties from Excel {string} and POJO {string}] defined at 'co.demo.apiautomation.stepdefinitions.BookFeaturesStepDefinition.userValidatesTheJASONResponseProperties(java.lang.String,co.demo.apiautomation.pojo.AddBook)'.
+It appears there was a problem with the step definition.
+The converted arguments types were (java.lang.String, java.lang.String)
+30-07-2024 15:02:31 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:02:32 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:03:11 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:03:11 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:03:12 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:03:12 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:03:13 INFO  TestListener:27 - org.junit.ComparisonFailure: Msg property verfied in response  expected:<[successfully added]> but was:<[Book Already Exists]>
+30-07-2024 15:04:48 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:04:48 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:04:49 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:04:49 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:35:42 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:35:42 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:35:44 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:35:44 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:35:44 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:35:44 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 15:35:44 INFO  TestListener:27 - java.lang.AssertionError: Book not available
+30-07-2024 15:40:45 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:40:45 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:40:46 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:40:46 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:40:46 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:40:46 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 15:40:46 INFO  TestListener:27 - java.lang.AssertionError: Book not available
+30-07-2024 15:42:47 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:42:48 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:42:49 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:42:49 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:42:49 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:42:49 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 15:42:49 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "co.demo.apiautomation.pojo.RootViewBook.getViewBookDetails()" because "co.demo.apiautomation.stepdefinitions.BookFeaturesStepDefinition.rootViewBook" is null
+30-07-2024 15:45:08 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:45:08 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:45:09 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:45:09 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:45:10 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:45:10 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 15:45:10 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "co.demo.apiautomation.pojo.RootViewBook.getViewBookDetails()" because "co.demo.apiautomation.stepdefinitions.BookFeaturesStepDefinition.rootViewBook" is null
+30-07-2024 15:49:05 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:49:06 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:49:07 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:49:07 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:49:07 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:49:07 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 15:49:07 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "co.demo.apiautomation.pojo.RootViewBook.getViewBookDetails()" because "co.demo.apiautomation.stepdefinitions.BookFeaturesStepDefinition.rootViewBook" is null
+30-07-2024 15:51:02 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:51:02 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:51:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:51:04 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:51:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:51:04 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 15:51:04 INFO  TestListener:27 - java.lang.ClassCastException: class [Lco.demo.apiautomation.pojo.ViewBookDetails; cannot be cast to class co.demo.apiautomation.pojo.ViewBookDetails ([Lco.demo.apiautomation.pojo.ViewBookDetails; and co.demo.apiautomation.pojo.ViewBookDetails are in unnamed module of loader 'app')
+30-07-2024 15:53:01 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:53:01 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:53:03 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:53:03 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 15:53:03 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 15:53:03 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 15:53:03 INFO  TestListener:27 - java.lang.ClassCastException: class [Lco.demo.apiautomation.pojo.ViewBookDetails; cannot be cast to class co.demo.apiautomation.pojo.RootViewBook ([Lco.demo.apiautomation.pojo.ViewBookDetails; and co.demo.apiautomation.pojo.RootViewBook are in unnamed module of loader 'app')
+30-07-2024 16:02:23 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:02:23 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:02:24 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:02:24 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:02:24 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:02:24 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:02:25 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:02:25 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:02:25 INFO  TestListener:27 - org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+30-07-2024 16:07:25 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:07:26 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:07:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:07:27 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:07:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:07:27 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:07:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:07:27 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:07:27 INFO  TestListener:27 - org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+30-07-2024 16:11:24 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:11:24 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:11:26 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:11:26 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:11:26 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:11:26 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:11:28 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:11:28 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:19:02 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:19:03 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:19:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:19:04 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:19:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:19:04 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:19:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:19:04 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:19:04 INFO  TestListener:27 - org.junit.ComparisonFailure: ISBN property not verfied in response  expected:<[[HARMA]]> but was:<[HARMA]>
+30-07-2024 16:23:00 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:23:01 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:23:02 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:23:02 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:23:02 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:23:02 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:23:02 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:23:02 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:25:40 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:25:40 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:25:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:25:43 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:25:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:25:43 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:25:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:25:43 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:26:40 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:26:40 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:26:41 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:26:41 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:26:41 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:26:41 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:26:41 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:26:41 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:28:13 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:28:14 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:28:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:28:15 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 16:28:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:28:15 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:28:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 16:28:15 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 16:28:15 INFO  TestListener:27 - org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+30-07-2024 18:52:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:52:43 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 18:52:45 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:52:45 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 18:52:45 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:52:45 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 18:54:53 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:54:54 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 18:54:55 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:54:55 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 18:54:55 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:54:55 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 18:56:25 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:56:26 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 18:56:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:56:27 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 18:56:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:56:27 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 18:58:55 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:58:55 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 18:58:56 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:58:56 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 18:58:56 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 18:58:56 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 19:14:54 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:14:55 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 19:14:56 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:14:56 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 19:14:56 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:14:56 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 19:25:38 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:25:38 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 19:25:39 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:25:39 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 19:25:40 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:25:40 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 19:26:37 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:26:38 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 19:26:39 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:26:39 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 19:26:39 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 19:26:39 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 20:51:59 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 20:51:59 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 20:52:01 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 20:52:01 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 20:52:01 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 20:52:01 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 21:12:59 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:12:59 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 21:13:01 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:13:01 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 21:13:02 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:13:02 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 21:29:08 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:29:09 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 21:29:11 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:29:11 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 21:29:11 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:29:11 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 21:43:28 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:43:28 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 21:44:25 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:44:26 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 21:45:08 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:45:08 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 21:46:20 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:46:21 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 21:47:13 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:47:14 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 21:48:22 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 21:48:22 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 22:15:54 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:15:55 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 22:17:35 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:17:36 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 22:21:49 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:21:50 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 22:23:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:23:28 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 22:24:37 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:24:38 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 22:30:09 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:30:10 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 22:30:38 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:30:38 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 22:31:58 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:31:59 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 22:32:14 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 22:32:15 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 23:01:06 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 23:01:07 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 23:04:24 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 23:04:25 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 23:06:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 23:06:43 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 23:12:53 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 23:12:54 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 23:14:18 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 23:14:18 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+30-07-2024 23:34:29 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 23:34:30 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 23:34:32 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 23:34:32 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+30-07-2024 23:34:32 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+30-07-2024 23:34:32 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:17:26 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:17:27 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:17:29 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:17:29 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:17:29 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:17:29 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:17:29 INFO  TestListener:27 - org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+31-07-2024 08:32:18 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:32:19 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:32:21 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:32:21 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:32:21 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:32:21 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:32:21 INFO  TestListener:27 - org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+31-07-2024 08:33:33 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:33:34 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:33:35 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:33:35 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:33:36 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:33:36 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:33:36 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 08:37:12 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:37:13 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:37:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:37:15 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:37:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:37:15 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:37:15 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 08:43:50 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:43:50 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:43:52 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:43:52 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:43:52 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:43:52 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:43:53 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 08:52:12 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:52:13 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:52:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:52:15 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:52:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:52:15 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:52:15 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 08:53:22 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:53:23 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:53:25 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:53:25 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:53:25 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:53:25 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:54:34 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 08:55:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:55:05 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:55:07 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:55:07 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:55:07 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:55:07 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:55:07 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 08:55:48 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:55:49 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:55:51 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:55:51 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:55:51 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:55:51 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:56:06 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 08:56:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:56:43 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:56:45 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:56:45 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:56:45 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:56:45 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:58:01 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:58:02 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:58:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:58:04 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:58:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:58:04 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 08:58:04 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 08:58:12 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:58:13 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:58:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:58:15 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 08:58:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 08:58:16 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 09:01:44 INFO  TestListener:27 - org.json.JSONException: A JSONArray text must start with '[' at 1 [character 2 line 1]
+31-07-2024 09:02:36 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:02:36 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 09:02:38 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:02:38 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 09:02:38 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:02:38 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 09:29:23 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:29:24 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 09:29:25 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:29:25 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 09:29:25 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:29:25 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+31-07-2024 09:29:56 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:29:57 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 09:29:58 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:29:58 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+31-07-2024 09:29:58 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+31-07-2024 09:29:58 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:12:31 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:12:32 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:12:34 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:12:34 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:12:34 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:12:34 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:20:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:20:44 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:20:46 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:20:46 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:20:46 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:20:46 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:21:48 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:21:49 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:21:50 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:21:50 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:21:51 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:21:51 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:42:35 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:42:36 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:42:36 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:42:36 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:42:36 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:42:36 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:48:42 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:48:42 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:48:43 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:48:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:48:43 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:48:43 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:50:16 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:50:16 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:50:17 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:50:17 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:50:17 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:50:17 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:53:23 ERROR PropertiesFile:25 - Properties File Not Found
+java.io.FileNotFoundException: C:\Users\baghe\Documents\Learning\DemoProjectForAPIAutmationBDD\DemoProjectAPIBDD\src\main\resources (Access is denied)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at co.demo.apiautomation.utils.PropertiesFile.getProperty(PropertiesFile.java:21)
+	at co.demo.apiautomation.utils.TestContext.<clinit>(TestContext.java:18)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.picocontainer.injectors.AbstractInjector.newInstance(AbstractInjector.java:145)
+	at org.picocontainer.injectors.ConstructorInjector$1.run(ConstructorInjector.java:342)
+	at org.picocontainer.injectors.AbstractInjector$ThreadLocalCyclicDependencyGuard.observe(AbstractInjector.java:270)
+	at org.picocontainer.injectors.ConstructorInjector.getComponentInstance(ConstructorInjector.java:364)
+	at org.picocontainer.injectors.AbstractInjectionFactory$LifecycleAdapter.getComponentInstance(AbstractInjectionFactory.java:56)
+	at org.picocontainer.behaviors.AbstractBehavior.getComponentInstance(AbstractBehavior.java:64)
+	at org.picocontainer.behaviors.Stored.getComponentInstance(Stored.java:91)
+	at org.picocontainer.DefaultPicoContainer.getInstance(DefaultPicoContainer.java:699)
+	at org.picocontainer.DefaultPicoContainer.getComponent(DefaultPicoContainer.java:647)
+	at org.picocontainer.DefaultPicoContainer.getComponent(DefaultPicoContainer.java:632)
+	at org.picocontainer.parameters.BasicComponentParameter$1.resolveInstance(BasicComponentParameter.java:118)
+	at org.picocontainer.parameters.ComponentParameter$1.resolveInstance(ComponentParameter.java:136)
+	at org.picocontainer.injectors.SingleMemberInjector.getParameter(SingleMemberInjector.java:78)
+	at org.picocontainer.injectors.ConstructorInjector$CtorAndAdapters.getParameterArguments(ConstructorInjector.java:309)
+	at org.picocontainer.injectors.ConstructorInjector$1.run(ConstructorInjector.java:335)
+	at org.picocontainer.injectors.AbstractInjector$ThreadLocalCyclicDependencyGuard.observe(AbstractInjector.java:270)
+	at org.picocontainer.injectors.ConstructorInjector.getComponentInstance(ConstructorInjector.java:364)
+	at org.picocontainer.injectors.AbstractInjectionFactory$LifecycleAdapter.getComponentInstance(AbstractInjectionFactory.java:56)
+	at org.picocontainer.behaviors.AbstractBehavior.getComponentInstance(AbstractBehavior.java:64)
+	at org.picocontainer.behaviors.Stored.getComponentInstance(Stored.java:91)
+	at org.picocontainer.DefaultPicoContainer.getInstance(DefaultPicoContainer.java:699)
+	at org.picocontainer.DefaultPicoContainer.getComponent(DefaultPicoContainer.java:647)
+	at org.picocontainer.DefaultPicoContainer.getComponent(DefaultPicoContainer.java:678)
+	at io.cucumber.picocontainer.PicoFactory.getInstance(PicoFactory.java:49)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:104)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:71)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:199)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:234)
+	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)
+08-08-2024 10:53:23 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 10:53:23 INFO  TestListener:27 - java.lang.NoClassDefFoundError: Could not initialize class co.demo.apiautomation.utils.TestContext
+08-08-2024 10:54:56 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:54:57 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:54:57 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:54:57 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:54:57 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:54:57 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:57:47 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:57:48 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 10:57:48 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 10:57:48 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 10:57:49 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 10:57:49 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 11:05:42 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:05:43 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:05:43 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 11:05:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:05:43 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 11:05:43 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 11:08:21 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:08:22 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:08:22 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 11:08:22 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:08:22 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 11:08:22 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 11:14:26 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:14:26 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:14:27 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 11:14:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:14:27 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 11:14:27 INFO  TestListener:27 - java.lang.NullPointerException: Cannot invoke "String.trim()" because the return value of "java.util.Properties.getProperty(String)" is null
+08-08-2024 11:17:06 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:17:06 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:17:08 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:17:08 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:17:08 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:17:09 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 11:51:40 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:51:40 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:51:42 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:51:42 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:51:43 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:51:43 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 11:51:43 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 11:54:59 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:55:00 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:55:02 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:55:02 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 11:55:02 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 11:55:02 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 11:55:02 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 12:01:13 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 12:02:34 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 12:06:46 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 12:11:20 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 12:19:29 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 12:40:36 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 12:42:12 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:42:13 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 12:42:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:42:15 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 12:42:16 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:42:16 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 12:42:16 INFO  TestListener:27 - java.lang.ExceptionInInitializerError
+08-08-2024 12:46:20 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:46:21 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 12:46:23 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:46:23 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 12:46:24 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:46:24 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 12:46:24 INFO  TestListener:27 - java.lang.RuntimeException: JSON file not found at path: C:\Users\baghe\Documents\Learning\DemoProjectForAPIAutmationBDD\DemoProjectAPIBDD\src\test\resources\testdata\responseBodySchema.json
+08-08-2024 12:49:19 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:49:20 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 12:49:21 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:49:21 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 12:49:22 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 12:49:22 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 12:49:22 INFO  TestListener:27 - java.lang.IllegalArgumentException: Schema to use cannot be null
+08-08-2024 12:50:19 INFO  TestListener:27 - java.lang.IllegalArgumentException: Schema to use cannot be null
+08-08-2024 12:51:34 INFO  TestListener:27 - java.lang.IllegalArgumentException: Schema to use cannot be null
+08-08-2024 12:53:58 INFO  TestListener:27 - java.lang.IllegalArgumentException: Schema to use cannot be null
+08-08-2024 12:59:30 INFO  TestListener:27 - java.lang.IllegalArgumentException: Schema to use cannot be null
+08-08-2024 13:44:23 INFO  TestListener:27 - io.cucumber.core.exception.CucumberException: Step [User validate response body data {string} from JSON file {string}] is defined with 3 parameters at 'co.demo.apiautomation.stepdefinitions.BookFeaturesStepDefinition.userValidateNewBookUsingDataFromJSONFile(java.lang.String,java.lang.String,java.lang.String)'.
+However, the gherkin step has 2 arguments:
+ * "addBook_TC01"
+ * "expectedresponseBody.json"
+Step text: User validate response body data "addBook_TC01" from JSON file "expectedresponseBody.json"
+08-08-2024 13:56:59 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 14:00:59 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 14:04:24 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:04:25 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:04:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:04:27 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:04:27 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:04:27 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 14:04:28 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 14:05:36 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:05:37 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:05:39 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:05:39 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:05:39 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:05:39 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 14:05:39 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 14:12:37 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:12:38 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:12:40 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:12:40 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:12:40 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:12:40 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 14:12:40 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 14:12:40 INFO  TestListener:27 - java.lang.AssertionError: expected:<200> but was:<404>
+08-08-2024 14:15:04 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:15:05 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:15:07 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:15:07 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:15:07 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:15:07 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 14:15:08 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 14:15:08 INFO  TestListener:27 - java.lang.AssertionError: expected:<400> but was:<404>
+08-08-2024 14:15:44 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:15:44 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:15:46 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:15:46 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:15:47 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:15:47 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 14:15:47 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 14:19:15 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:19:15 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:19:17 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:19:17 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:19:18 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:19:18 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 14:19:20 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 14:46:10 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:46:10 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:46:13 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:46:13 INFO  ExcelUtils:82 - Test Data Found in Row: 1
+08-08-2024 14:46:13 INFO  ExcelUtils:28 - Getting sheets from the workbook.
+08-08-2024 14:46:13 INFO  ExcelUtils:82 - Test Data Found in Row: 2
+08-08-2024 14:46:13 INFO  TestListener:27 - io.restassured.module.jsv.JsonSchemaValidationException: com.fasterxml.jackson.core.JsonParseException: no JSON Text to read from input
+ at [Source: (StringReader); line: 1, column: 1]
+08-08-2024 15:34:43 INFO  TestListener:27 - java.lang.IllegalArgumentException: Cannot invoke method getAt() on null object
