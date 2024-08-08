@@ -6,10 +6,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>co.demo.apiautomation</groupId>
-	<artifactId>DemoProjectAPIBDD</artifactId>
+	<artifactId>TestAutomation_API_BDD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>DemoProjectAPIBDD</name>
+	<name>TestAutomation_API_BDD</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
